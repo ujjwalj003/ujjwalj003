@@ -1,4 +1,4 @@
-Hi there 👋, my name is Ujjwal Kumar.
+##### Hi there 👋, my name is Ujjwal Kumar.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-kumar003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mail.ujjwalj@gmail.com) 
 
