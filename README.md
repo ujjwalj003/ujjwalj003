@@ -8,8 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ujjwalj003&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ujjwalj003&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalj003&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-### 🧠 Main Languages I Use:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+
 
 
 ## 🏆 GitHub Trophies
